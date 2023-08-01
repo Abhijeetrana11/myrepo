@@ -5,6 +5,9 @@ void quicksort(){
     
 }
 
+void bubblesort(){
+    
+}
 int main(){
 cout<<"hey repo";
 cout<<"hey second repo";
