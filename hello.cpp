@@ -5,7 +5,7 @@ void quicksort(){
     
 }
 
-void bubblesort(){
+void insertionsort(){
     
 }
 int main(){
